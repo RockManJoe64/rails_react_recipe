@@ -1,6 +1,6 @@
 # rails_react_recipe
 
-Following the Digital Ocean tutorial on How To Set Up a Ruby on Rails Project with a React Frontend
+Following the Digital Ocean tutorial on [How To Set Up a Ruby on Rails Project with a React Frontend](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
